@@ -10,6 +10,7 @@ A Web3 development guide for creating and deploying ERC20 tokens on Ethereum-com
 - **IDE**: Remix
 - **Library**: OpenZeppelin
 - **Security**: Moonbeam Safe (Multisig)
+- **Language**: Solidity
 
 ## Why These Choices?
 - **Moonbase Alpha**: Free test tokens, low gas fees, easy setup

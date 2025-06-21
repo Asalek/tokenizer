@@ -21,9 +21,4 @@ ERC20 token deployed on Moonbase Alpha testnet with multisignature security feat
 ## Quick Setup
 1. **Add to MetaMask**: Import token using contract address on Moonbase Alpha
 2. **Test**: Transfer tokens between accounts
-3. **Security**: Multisig enabled via Moonbeam Safe
-
-## Features
-- ERC20 compliant
-- Multisignature security
-- MetaMask compatible
+3. **Security**: Multisig enabled by Moonbeam Safe
